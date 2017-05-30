@@ -1,19 +1,19 @@
 {
-  "name": "practicum",
+  "name": "programmeren_4",
   "version": "1.0.0",
-  "description": "Dit is voor practicums",
+  "description": "geen",
   "main": "./Practicum/server.js",
   "scripts": {
-	"start": "node ./Practicum/server.js"
+    "start": "node ./Practicum/server.js"
   },
-  "keywords": [
-    "Tom",
-    "van",
-    "Haaster"
-  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomvh123/programmeren_4.git"
+  },
   "author": "Tom van Haaster",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.15.3"
-  }
+  "bugs": {
+    "url": "https://github.com/Tomvh123/programmeren_4/issues"
+  },
+  "homepage": "https://github.com/Tomvh123/programmeren_4#readme"
 }
