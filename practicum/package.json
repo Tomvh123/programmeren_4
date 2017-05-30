@@ -1,0 +1,19 @@
+{
+  "name": "practicum",
+  "version": "1.0.0",
+  "description": "Dit is voor practicums",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Tom",
+    "van",
+    "Haaster"
+  ],
+  "author": "Tom van Haaster",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
