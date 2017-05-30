@@ -2,9 +2,9 @@
   "name": "programmeren_4",
   "version": "1.0.0",
   "description": "geen",
-  "main": "./Practicum/server.js",
+  "main": "./practicum/server.js",
   "scripts": {
-    "start": "node ./Practicum/server.js"
+    "start": "node ./practicum/server.js"
   },
   "repository": {
     "type": "git",

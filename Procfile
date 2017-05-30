@@ -1,1 +1,1 @@
-web: node ./Practicum/server.js
+web: node ./practicum/server.js
